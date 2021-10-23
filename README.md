@@ -53,10 +53,16 @@ How has your approach to developing code evolved throughout the milestones, whic
 
 3.)
 How can computer science help me in reaching my goals?
-Computer science is such an open field and it really is endless in terms of technology. It helps me think outside of the box and perform logic. This critical thinking is very benificial. Especially in my current job where I and a network and systems tech. Granted the stuff I focus on is different its the mentality that comes with it. There are alot of things I can use interchangably. Knowledge is power!
+-Computer science is such an open field and it really is endless in terms of technology. It helps me think outside of the box and perform logic. This critical thinking is very benificial.
+-Especially in my current job where I and a network and systems tech. Granted the stuff I focus on is different its the mentality that comes with it. There are alot of things I can use interchangably. Knowledge is power!
 
 How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
--This has given me a great perspective. This is a part of the field that I have always had an interest in but never got to experiance. There is a bit of a learning curve. But once you get over the hump it starts to make sense. Depedning on the enviornment I am coding in I can now take my coding to another level. This will allow me to bring a move visual aspect to my code and will allow those who run my code a more interactive experiance. I am sure alot of us have been into video games and this is just scratching the surface of what we can integrate. 
+-This has given me a great perspective. This is a part of the field that I have always had an interest in but never got to experiance.
+-There is a bit of a learning curve. But once you get over the hump it starts to make sense. 
+-Depedning on the enviornment I am coding in I can now take my coding to another level. This will allow me to bring a move visual aspect to my code and will allow those who run my code a more interactive experiance.
+-I am sure alot of us have been into video games and this is just scratching the surface of what we can integrate. 
 
 How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
-- As far as professional paths go I am still unsure which direction I will go. I do have a great interest in coding, but I have always been more on the networking and switches side of things. Setting up servers ect. I am excited to see where I end up. But soon I will make my choice to where I go next.
+- As far as professional paths go I am still unsure which direction I will go. 
+- I do have a great interest in coding, but I have always been more on the networking and switches side of things. 
+- Setting up servers ect. I am excited to see where I end up. But soon I will make my choice to where I go next.
