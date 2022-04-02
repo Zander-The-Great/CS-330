@@ -1,5 +1,5 @@
 # CS-330
-Comp Graphic and Visualization
+SNHU Comp Graphic and Visualization
 
 
 
